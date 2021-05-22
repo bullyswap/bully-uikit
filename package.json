@@ -1,5 +1,5 @@
 {
-  "name": "@bullyswap-libs/uikit",
+  "name": "@bully-swap/uikit",
   "version": "0.10.6",
   "description": "Set of UI components for bully projects",
   "main": "dist/index.cjs.js",
